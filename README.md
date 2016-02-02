@@ -18,7 +18,7 @@ Take fun and use it in your current or next prototypes!
 
 # How to use it?
 
-1. Download the Axure library file: [Disign Kit Axure Library](https://github.com/duzyn/design-kit-axure-library/blob/master/Design%20Kit.rplib?raw=true)
+1. Download the Axure library file: [Disign Kit Axure Library](./Design%20Kit.rplib?raw=true)
 2. Open your Axure, click the three bars icon and choose "Load Library". Find the library file to Load it.
 3. That's all! You can now enjoy your time for making some really nice prototypes.
 
