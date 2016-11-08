@@ -6,7 +6,7 @@ An Axure widget library contained **most** common UI patterns in desktop, web an
 
 -   48 **Most** common UI patterns in desktop, web and mobile app design regions.
 -   Contain widget icons in both 28x28 and 56x56 size, and is **consistent** with Axure default style
--   **Only** support Axure 8. You can download Axure 8 Beta [here](http://www.axure.com/beta).
+-   **Only** support Axure 8. You can download Axure 8 [here](http://www.axure.com/download).
 
 Take fun and use it in your current or next prototypes!
 
